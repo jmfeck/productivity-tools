@@ -1,0 +1,10 @@
+# config/config.yaml
+
+project_param:
+  data_outgoing_foldername: "output"
+
+gsheet_param:
+  sheet_name_list: 
+    - "sample_gsheet_file"  # List of sheet/tab names to export
+  sheet_id: "1jqqWhkHNlF1SQOcG0unkRAbnJuCInCONy0Qz_pHLlSk"  # Google Sheet ID
+  service_account_file: "service_account_token.json"  # Path to the service account file

@@ -1,5 +1,0 @@
-When trying to ready a google sheet, It is mandatory to share the gsheet with the email bellow:
-
-adveronix-sheets-api-id@fifth-cab-353420.iam.gserviceaccount.com
-
-Reason: This email is a service account of a gsheets api programmed in the wework latam account
