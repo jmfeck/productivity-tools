@@ -1,0 +1,714 @@
+INFO:root:cube_funnel: starting
+INFO:root:cube_funnel: importing data
+INFO:root:cube_funnel: exporting to excel
+INFO:root:cube_funnel: starting
+INFO:root:cube_funnel: importing data
+INFO:root:cube_funnel: exporting to excel
+INFO:root:cube_funnel: finished
+INFO:root:base_occ_arpm_monthly (2): starting
+INFO:root:base_occ_arpm_monthly (2): importing data
+INFO:root:base_occ_arpm_monthly (2): starting
+INFO:root:base_occ_arpm_monthly (2): importing data
+INFO:root:base_occ_arpm_monthly (2): starting
+INFO:root:base_occ_arpm_monthly (2): importing data
+INFO:root:base_occ_arpm_monthly (2): exporting to excel
+INFO:root:base_occ_arpm_monthly (2): finished
+INFO:root:base_occ_arpm_monthly (2): starting
+INFO:root:base_occ_arpm_monthly (2): importing data
+INFO:root:base_occ_arpm_monthly (2): exporting to excel
+INFO:root:base_occ_arpm_monthly (2): finished
+INFO:root:BASE_ANALISE_PERFORMANCE_CAMPANHA_COHORT: starting
+INFO:root:BASE_ANALISE_PERFORMANCE_CAMPANHA_COHORT: importing data
+INFO:root:BASE_ANALISE_PERFORMANCE_CAMPANHA_COHORT: starting
+INFO:root:BASE_ANALISE_PERFORMANCE_CAMPANHA_COHORT: importing data
+INFO:root:BASE_ANALISE_PERFORMANCE_CAMPANHA_COHORT: exporting to excel
+INFO:root:BASE_ANALISE_PERFORMANCe: starting
+INFO:root:BASE_ANALISE_PERFORMANCe: importing data
+INFO:root:BASE_ANALISE_PERFORMANCe: exporting to excel
+INFO:root:BASE_ANALISE_PERFORMANCe: finished
+INFO:root:BASE_ANALISE_PERFORMANCe: starting
+INFO:root:BASE_ANALISE_PERFORMANCe: importing data
+INFO:root:BASE_ANALISE_PERFORMANCe: exporting to excel
+INFO:root:BASE_ANALISE_PERFORMANCe: finished
+INFO:root:result (19): starting
+INFO:root:result (19): importing data
+INFO:root:result (19): exporting to excel
+INFO:root:result (19): finished
+INFO:root:result (19): starting
+INFO:root:result (19): importing data
+INFO:root:result (19): exporting to excel
+INFO:root:result (19): finished
+INFO:root:result (19): starting
+INFO:root:result (19): importing data
+INFO:root:result (19): exporting to excel
+INFO:root:result (19): finished
+INFO:root:result (19): starting
+INFO:root:result (19): importing data
+INFO:root:result (19): exporting to excel
+INFO:root:result (19): finished
+INFO:root:Sheet 1 (6): starting
+INFO:root:Sheet 1 (6): importing data
+INFO:root:Sheet 1 (6): starting
+INFO:root:Sheet 1 (6): importing data
+INFO:root:base: starting
+INFO:root:base: importing data
+INFO:root:base: starting
+INFO:root:base: importing data
+INFO:root:base: exporting to excel
+INFO:root:base: finished
+INFO:root:result (63): starting
+INFO:root:result (63): importing data
+INFO:root:result (63): exporting to excel
+INFO:root:result (63): finished
+INFO:root:result (63): starting
+INFO:root:result (63): importing data
+INFO:root:result (63): exporting to excel
+INFO:root:result (63): finished
+INFO:root:result (64): starting
+INFO:root:result (64): importing data
+INFO:root:result (64): exporting to excel
+INFO:root:result (64): finished
+INFO:root:Base Closed Lost Opps: starting
+INFO:root:Base Closed Lost Opps: importing data
+INFO:root:Base Closed Lost Opps: starting
+INFO:root:Base Closed Lost Opps: importing data
+INFO:root:Base Closed Lost Opps: exporting to excel
+INFO:root:Base Closed Lost Opps: finished
+INFO:root:WW - Products & Countries & Channels Spend - 2022: starting
+INFO:root:WW - Products & Countries & Channels Spend - 2022: importing data
+INFO:root:WW - Products & Countries & Channels Spend - 2022: exporting to excel
+INFO:root:VTNC: starting
+INFO:root:VTNC: importing data
+INFO:root:VTNC: exporting to excel
+INFO:root:VTNC: finished
+INFO:root:Deal List (AA): starting
+INFO:root:Deal List (AA): importing data
+INFO:root:Deal List (AA): starting
+INFO:root:Deal List (AA): importing data
+INFO:root:Deal List (AA): starting
+INFO:root:Deal List (AA): importing data
+INFO:root:Deal List (AA): exporting to excel
+INFO:root:Deal List (AA): finished
+INFO:root:Deal List (AA) (1): starting
+INFO:root:Deal List (AA) (1): importing data
+INFO:root:Deal List (AA) (1): exporting to excel
+INFO:root:Deal List (AA) (1): finished
+INFO:root:Deal List (AA) (1): starting
+INFO:root:Deal List (AA) (1): importing data
+INFO:root:Deal List (AA) (1): exporting to excel
+INFO:root:Deal List (AA) (1): finished
+INFO:root:Sheet 28: starting
+INFO:root:Sheet 28: importing data
+INFO:root:Sheet 28: exporting to excel
+INFO:root:Sheet 28: finished
+INFO:root:Dataset: starting
+INFO:root:Dataset: importing data
+INFO:root:Dataset: exporting to excel
+INFO:root:Dataset: finished
+INFO:root:Sheet 1 (6): starting
+INFO:root:Sheet 1 (6): importing data
+INFO:root:Sheet 1 (6): exporting to excel
+INFO:root:Sheet 1 (6): finished
+INFO:root:base_sf: starting
+INFO:root:base_sf: importing data
+INFO:root:base_sf: exporting to excel
+INFO:root:base_sf: finished
+INFO:root:base_sales: starting
+INFO:root:base_sales: importing data
+INFO:root:base_sales: exporting to excel
+INFO:root:base_sales: finished
+INFO:root:base_sales: starting
+INFO:root:base_sales: importing data
+INFO:root:base_sales: exporting to excel
+INFO:root:base_sales: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-01_2023-01-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-12-01_2022-12-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2022-11-01_2022-11-29__20230413194519: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-04-01_2023-04-11__20230413220831: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-03-01_2023-03-30__20230413220341: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-02-01_2023-02-27__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-12_2023-04-11__20230414095755: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2023-01-01_2023-01-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-12-01_2022-12-30__20230413220350: finished
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: starting
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: importing data
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: exporting to excel
+INFO:root:weworkhelpdeskmex_Desk_Messages_2022-11-01_2022-11-29__20230413220350: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-04-01_2023-04-11__20230413212449: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-03-01_2023-03-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-02-01_2023-02-27__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-12_2023-04-11__20230414095622: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2023-01-01_2023-01-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-12-01_2022-12-30__20230413212459: finished
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: starting
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: importing data
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: exporting to excel
+INFO:root:weworkhelpdeskcol_Desk_Messages_2022-11-01_2022-11-29__20230413212459: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-04-01_2023-04-11__20230413205208: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-03-01_2023-03-30__20230413205044: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-02-01_2023-02-27__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-12_2023-04-11__20230414095612: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2023-01-01_2023-01-30__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-12-01_2022-12-30__20230413205054: finished
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: starting
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: importing data
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: exporting to excel
+INFO:root:weworkhelpdeskchi_Desk_Messages_2022-11-01_2022-11-29__20230413205054: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-04-01_2023-04-11__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-03-01_2023-03-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-02-01_2023-02-27__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-12_2023-04-11__20230414095600: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2023-01-01_2023-01-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-12-01_2022-12-30__20230413202111: finished
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: starting
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: importing data
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: exporting to excel
+INFO:root:weworkhelpdeskarg_Desk_Messages_2022-11-01_2022-11-29__20230413202111: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-04-01_2023-04-11__20230413194509: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-03-01_2023-03-30__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-02-01_2023-02-27__20230413194519: finished
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: starting
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: importing data
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: exporting to excel
+INFO:root:weworkhelpdesk_Desk_Messages_2023-01-12_2023-04-11_part1-1__20230414095548: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:Sheet 1: starting
+INFO:root:Sheet 1: importing data
+INFO:root:Sheet 1: exporting to excel
+INFO:root:Sheet 1: finished
+INFO:root:base_churn_historical_per_bucket: starting
+INFO:root:base_churn_historical_per_bucket: importing data
+INFO:root:base_churn_historical_per_bucket: starting
+INFO:root:base_churn_historical_per_bucket: importing data
+INFO:root:base_churn_historical_per_bucket: starting
+INFO:root:base_churn_historical_per_bucket: importing data
+INFO:root:base_churn_historical_per_bucket: starting
+INFO:root:base_churn_historical_per_bucket: importing data
+INFO:root:base_churn_historical_per_bucket: exporting to excel
+INFO:root:base_churn: starting
+INFO:root:base_churn: importing data
+INFO:root:base_churn: exporting to excel
+INFO:root:base_churn: finished
+INFO:root:base_churn: starting
+INFO:root:base_churn: importing data
+INFO:root:base_churn: exporting to excel
+INFO:root:base_churn: finished
+INFO:root:base_churn: starting
+INFO:root:base_churn: importing data
+INFO:root:base_churn: exporting to excel
+INFO:root:base_churn: finished
+INFO:root:base_churn: starting
+INFO:root:base_churn: importing data
+INFO:root:base_churn: exporting to excel
+INFO:root:base_churn: finished
+INFO:root:sample_dataset: starting
+INFO:root:sample_dataset: importing data
+INFO:root:sample_dataset: exporting to excel
+INFO:root:sample_dataset: finished
+INFO:root:dataset_gbu_replines_mapped: starting
+INFO:root:dataset_gbu_replines_mapped: importing data
+INFO:root:dataset_gbu_replines_mapped: exporting to excel
+INFO:root:dataset_gbu_replines_mapped: finished
+INFO:root:btq_sem_tiger_map: starting
+INFO:root:btq_sem_tiger_map: importing data
+INFO:root:btq_sem_tiger_map: exporting to excel
+INFO:root:btq_sem_tiger_map: finished
+INFO:root:btq_sem_tiger_map: starting
+INFO:root:btq_sem_tiger_map: importing data
+INFO:root:btq_sem_tiger_map: exporting to excel
+INFO:root:btq_sem_tiger_map: finished
+INFO:root:gbu25_sap_upload_v0002: starting
+INFO:root:gbu25_sap_upload_v0002: importing data
+INFO:root:gbu25_sap_upload_v0002: exporting to excel
+INFO:root:gbu25_sap_upload_v0002: finished
+INFO:root:gbu25_sap_upload_v0002: starting
+INFO:root:gbu25_sap_upload_v0002: importing data
+INFO:root:gbu25_sap_upload_v0002: exporting to excel
+INFO:root:gbu25_sap_upload_v0002: finished
+INFO:root:bquxjob_18edf664_1929f1e8e2c: starting
+INFO:root:bquxjob_18edf664_1929f1e8e2c: importing data
+INFO:root:bquxjob_18edf664_1929f1e8e2c: exporting to excel
+INFO:root:bquxjob_18edf664_1929f1e8e2c: finished
+INFO:root:bquxjob_448076d4_1929f2c3f1c: starting
+INFO:root:bquxjob_448076d4_1929f2c3f1c: importing data
+INFO:root:bquxjob_448076d4_1929f2c3f1c: exporting to excel
+INFO:root:bquxjob_448076d4_1929f2c3f1c: finished
+INFO:root:bquxjob_448076d4_1929f2c3f1c: starting
+INFO:root:bquxjob_448076d4_1929f2c3f1c: importing data
+INFO:root:bquxjob_448076d4_1929f2c3f1c: exporting to excel
+INFO:root:bquxjob_448076d4_1929f2c3f1c: finished
