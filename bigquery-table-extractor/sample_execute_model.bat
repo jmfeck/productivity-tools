@@ -1,2 +1,0 @@
-python scripts/bigquery_table_extractor.py config/sample_config.yaml
-PAUSE

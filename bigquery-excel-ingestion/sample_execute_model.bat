@@ -1,2 +1,0 @@
-python scripts/ingest_excel_into_bigquery.py config/sample_config.yaml
-PAUSE
