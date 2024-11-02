@@ -1,5 +1,0 @@
-call activate sandbox
-python scripts/bigquery_query_trigger.py config/file_parameters.properties queries/cube_sales_sellin_actuals.sql
-python scripts/bigquery_query_trigger.py config/file_parameters.properties queries/cube_sales_sellin_goals.sql
-python scripts/bigquery_query_trigger.py config/file_parameters.properties queries/cube_sales_sellin_actuals_goals.sql
-PAUSE
