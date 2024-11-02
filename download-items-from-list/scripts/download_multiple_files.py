@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 18 18:23:22 2020
 
-@author: WCY8676
-"""
+# ==============================================================================
+#   Author: João Manoel Feck
+#   Email: joaomfeck@gmail.com
+#   GitHub: https://github.com/jmfeck
+# ==============================================================================
 
 import pandas as pd
 import os

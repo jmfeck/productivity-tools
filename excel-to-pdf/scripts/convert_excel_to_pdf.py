@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 10 15:38:26 2019
 
-@author: WCY8676
-"""
+# ==============================================================================
+#   Author: João Manoel Feck
+#   Email: joaomfeck@gmail.com
+#   GitHub: https://github.com/jmfeck
+# ==============================================================================
 
 import os
 import logging

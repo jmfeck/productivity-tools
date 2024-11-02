@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-@author: jmfeck
-"""
+
+# ==============================================================================
+#   Author: João Manoel Feck
+#   Email: joaomfeck@gmail.com
+#   GitHub: https://github.com/jmfeck
+# ==============================================================================
 
 import sys
 import pandas as pd
@@ -47,7 +50,7 @@ tablename = get_config_item(config['bq_param'], 'tablename')
 table_id = f"{dataset}.{tablename}"
 
 # Project parameters
-data_incoming_foldername = get_config_item(config['project_param'], 'data_incoming_foldername')
+data_incoming_foldername = get_config_item(config['project_param'], 'input_foldername')
 
 # File parameters
 file_relative_path = get_config_item(config['file_param'], 'file_relative_path')

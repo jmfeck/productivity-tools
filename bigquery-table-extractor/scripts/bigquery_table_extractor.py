@@ -1,43 +1,10 @@
 # -*- coding: utf-8 -*-
 
-"""
-BigQuery Table Extractor
-
-Author: João Manoel Feck
-Date: November 2024
-
-This script connects to a BigQuery dataset, retrieves a specified table, and exports it to a local file in the desired format (e.g., CSV, Excel, or Parquet). 
-The configuration details (project ID, dataset, table name, output folder, file format, etc.) are read from an external YAML configuration file.
-
-Usage:
-    python bigquery_table_extractor.py <config_file_path>
-
-Configuration File Structure (YAML):
-    project_param:
-      data_outgoing_foldername: <folder_name_for_output_files>
-
-    bq_param:
-      project_id: <your_project_id>
-      dataset: <your_dataset>
-      tablename: <your_table_name>
-
-    file_param:
-      file_relative_path: <relative_path_within_outgoing_folder>
-      file_radcname: <base_filename_without_extension>
-      file_ext: <file_extension: .csv, .xlsx, .parquet>
-      sheet_name: <sheet_name_for_excel_files_only>
-
-Dependencies:
-    - pandas
-    - pandas_gbq
-    - pyyaml
-    - Google Cloud BigQuery (requires Google Cloud SDK and authentication setup)
-
-Notes:
-    - Ensure that your Google Cloud credentials are set up in the environment before running this script.
-    - For Excel export, specify a sheet name in the configuration file.
-
-"""
+# ==============================================================================
+#   Author: João Manoel Feck
+#   Email: joaomfeck@gmail.com
+#   GitHub: https://github.com/jmfeck
+# ==============================================================================
 
 import yaml
 import sys

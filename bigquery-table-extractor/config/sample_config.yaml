@@ -1,0 +1,14 @@
+project_param:
+  data_incoming_foldername:  # Optional: if not used, you can remove it or leave it empty
+  data_outgoing_foldername: data_outgoing
+
+bq_param:
+  project_id: placeholder_project_id
+  dataset: placeholder_dataset
+  tablename: placeholder_tablename
+
+file_param:
+  file_relative_path:  # Optional: if the file is saved directly in the outgoing folder, this can be left empty
+  file_radcname: outgoing_filename
+  file_ext: .csv  # Supported values: .csv, .xlsx, .parquet
+  sheet_name:  # Required for .xlsx files; can be omitted for .csv and .parquet files

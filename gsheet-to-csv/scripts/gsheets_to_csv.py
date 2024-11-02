@@ -1,9 +1,10 @@
-# -*- coding: utf-8 -*- 
-"""
-Created on Tue Nov 29 16:51:53 2022
+# -*- coding: utf-8 -*-
 
-@author: jfeck
-"""
+# ==============================================================================
+#   Author: João Manoel Feck
+#   Email: joaomfeck@gmail.com
+#   GitHub: https://github.com/jmfeck
+# ==============================================================================
 
 import os
 import datetime
