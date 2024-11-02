@@ -1,0 +1,893 @@
+  ### Default Dimensions ### {
+  dimension: brand {
+    type: string
+    sql: ${TABLE}.brand ;;
+  }
+
+  dimension: apo_location {
+    type: string
+    sql: ${TABLE}.apo_location ;;
+  }
+
+  dimension: batch {
+    type: string
+    sql: ${TABLE}.batch ;;
+  }
+
+  dimension: boutique_ear {
+    type: string
+    sql: ${TABLE}.boutique_ear ;;
+  }
+
+  dimension: calendar_day {
+    type: time
+    sql: ${TABLE}.calendar_day ;;
+  }
+
+  dimension: calendar_day_week {
+    type: number
+    sql: ${TABLE}.calendar_day_week ;;
+  }
+
+  dimension: calendar_month {
+    type: number
+    sql: ${TABLE}.calendar_month ;;
+  }
+
+  dimension: calendar_year {
+    type: number
+    sql: ${TABLE}.calendar_year ;;
+  }
+
+  dimension: calendar_year_month {
+    type: number
+    sql: ${TABLE}.calendar_year_month ;;
+  }
+
+  dimension: calendar_year_week {
+    type: number
+    sql: ${TABLE}.calendar_year_week ;;
+  }
+
+  dimension: fiscal_period {
+    type: number
+    sql: ${TABLE}.fiscal_period ;;
+  }
+
+  dimension: fiscal_variant {
+    type: string
+    sql: ${TABLE}.fiscal_variant ;;
+  }
+
+  dimension: fiscal_year {
+    type: number
+    sql: ${TABLE}.fiscal_year ;;
+  }
+
+  dimension: channel {
+    type: string
+    sql: ${TABLE}.channel ;;
+  }
+
+  dimension: channel_txt {
+    type: string
+    sql: ${TABLE}.channel_txt ;;
+  }
+
+  dimension: co_document_number {
+    type: string
+    sql: ${TABLE}.co_document_number ;;
+  }
+
+  dimension: commercial_zone {
+    type: string
+    sql: ${TABLE}.commercial_zone ;;
+  }
+
+  dimension: company_code {
+    type: string
+    sql: ${TABLE}.company_code ;;
+  }
+
+  dimension: consignment_flag {
+    type: string
+    sql: ${TABLE}.consignment_flag ;;
+  }
+
+  dimension: controlling_area {
+    type: string
+    sql: ${TABLE}.controlling_area ;;
+  }
+
+  dimension: controlling_view_posted {
+    type: string
+    sql: ${TABLE}.controlling_view_posted ;;
+  }
+
+  dimension: currency {
+    type: string
+    sql: ${TABLE}.currency ;;
+  }
+
+  dimension: currency_nrsp {
+    type: string
+    sql: ${TABLE}.currency_nrsp ;;
+  }
+
+  dimension: customer_global {
+    type: string
+    sql: ${TABLE}.customer_global ;;
+  }
+
+  dimension: customer_group {
+    type: string
+    sql: ${TABLE}.customer_group ;;
+  }
+
+  dimension: destination_country {
+    type: string
+    sql: ${TABLE}.destination_country ;;
+  }
+
+  dimension: ecom_channel {
+    type: string
+    sql: ${TABLE}.ecom_channel ;;
+  }
+
+  dimension: fa_collection_posted {
+    type: string
+    sql: ${TABLE}.fa_collection_posted ;;
+  }
+
+  dimension: fa_product_seasonality_posted {
+    type: string
+    sql: ${TABLE}.fa_product_seasonality_posted ;;
+  }
+
+  dimension: fa_season_posted {
+    type: string
+    sql: ${TABLE}.fa_season_posted ;;
+  }
+
+  dimension: fa_theme_posted {
+    type: string
+    sql: ${TABLE}.fa_theme_posted ;;
+  }
+
+  dimension: global_invoice {
+    type: string
+    sql: ${TABLE}.global_invoice ;;
+  }
+
+  dimension: global_network {
+    type: string
+    sql: ${TABLE}.global_network ;;
+  }
+
+  dimension: global_pos {
+    type: string
+    sql: ${TABLE}.global_pos ;;
+  }
+
+  dimension: global_pos_id {
+    type: string
+    sql: ${TABLE}.global_pos_id ;;
+  }
+
+  dimension: global_site_ear {
+    type: string
+    sql: ${TABLE}.global_site_ear ;;
+  }
+
+  dimension: leading_object {
+    type: string
+    sql: ${TABLE}.leading_object ;;
+  }
+
+  dimension: order_reason {
+    type: string
+    sql: ${TABLE}.order_reason ;;
+  }
+
+  dimension: pos_booster {
+    type: string
+    sql: ${TABLE}.pos_booster ;;
+  }
+
+  dimension: posting_period {
+    type: number
+    sql: ${TABLE}.posting_period ;;
+  }
+
+  dimension: product_segment_posted {
+    type: string
+    sql: ${TABLE}.product_segment_posted ;;
+  }
+
+  dimension: profit_center {
+    type: string
+    sql: ${TABLE}.profit_center ;;
+  }
+
+  dimension: record_type {
+    type: string
+    sql: ${TABLE}.record_type ;;
+  }
+
+  dimension: reference_document_number {
+    type: string
+    sql: ${TABLE}.reference_document_number ;;
+  }
+
+  dimension: reporting_entity {
+    type: string
+    sql: ${TABLE}.reporting_entity ;;
+  }
+
+  dimension: reporting_entity_txt {
+    type: string
+    sql: ${TABLE}.reporting_entity_txt ;;
+  }
+
+  dimension: sales_associate {
+    type: string
+    sql: ${TABLE}.sales_associate ;;
+  }
+
+  dimension: sales_doc_type {
+    type: string
+    sql: ${TABLE}.sales_doc_type ;;
+  }
+
+  dimension: sales_document {
+    type: string
+    sql: ${TABLE}.sales_document ;;
+  }
+
+  dimension: sales_organization {
+    type: string
+    sql: ${TABLE}.sales_organization ;;
+  }
+
+  dimension: sales_representative {
+    type: string
+    sql: ${TABLE}.sales_representative ;;
+  }
+
+  dimension: sales_representative_global {
+    type: string
+    sql: ${TABLE}.sales_representative_global ;;
+  }
+
+  dimension: serial_number {
+    type: string
+    sql: ${TABLE}.serial_number ;;
+  }
+
+  dimension: sold_to_party {
+    type: string
+    sql: ${TABLE}.sold_to_party ;;
+  }
+
+  dimension: ship_to_party {
+    type: string
+    sql: ${TABLE}.ship_to_party ;;
+  }
+
+  dimension: source_partition {
+    type: string
+    sql: ${TABLE}.source_partition ;;
+  }
+
+  dimension: source_system {
+    type: string
+    sql: ${TABLE}.source_system ;;
+  }
+
+  dimension: source_table {
+    type: string
+    sql: ${TABLE}.source_table ;;
+  }
+
+  dimension: unit_of_measure {
+    type: string
+    sql: ${TABLE}.unit_of_measure ;;
+  }
+
+  dimension: sellin_qty {
+    type: number
+    sql: ${TABLE}.sellin_qty ;;
+  }
+
+  dimension: sellin_rsp {
+    type: number
+    sql: ${TABLE}.sellin_rsp ;;
+  }
+
+  dimension: sellin_invoiced_before_discount {
+    type: number
+    sql: ${TABLE}.sellin_invoiced_before_discount ;;
+  }
+
+  dimension: sellin_discount {
+    type: number
+    sql: ${TABLE}.sellin_discount ;;
+  }
+
+  dimension: sellin_invoiced {
+    type: number
+    sql: ${TABLE}.sellin_invoiced ;;
+  }
+
+  dimension: sellin_net {
+    type: number
+    sql: ${TABLE}.sellin_net ;;
+  }
+
+  dimension: sellout_qty {
+    type: number
+    sql: ${TABLE}.sellout_qty ;;
+  }
+
+  dimension: sellout_nrsp {
+    type: number
+    sql: ${TABLE}.sellout_nrsp ;;
+  }
+
+  dimension: sellout_dealer_cost {
+    type: number
+    sql: ${TABLE}.sellout_dealer_cost ;;
+  }
+
+  dimension: sellout_net {
+    type: number
+    sql: ${TABLE}.sellout_net ;;
+  }
+
+  dimension: full_sellout_qty {
+    type: number
+    sql: ${TABLE}.full_sellout_qty ;;
+  }
+
+  dimension: full_sellout_nrsp {
+    type: number
+    sql: ${TABLE}.full_sellout_nrsp ;;
+  }
+
+  dimension: article {
+    type: string
+    sql: ${TABLE}.article ;;
+  }
+
+  dimension: commercial_group {
+    type: string
+    sql: ${TABLE}.commercial_group ;;
+  }
+
+  dimension: mtb_channel_official {
+    type: string
+    sql: ${TABLE}.mtb_channel_official ;;
+  }
+
+  dimension: mtb_channel_official_short {
+    type: string
+    sql: ${TABLE}.mtb_channel_official_short ;;
+  }
+
+  dimension: mtb_channel_dtc_flag {
+    type: string
+    sql: ${TABLE}.mtb_channel_dtc_flag ;;
+  }
+
+  dimension: article_txt {
+    type: string
+    sql: ${TABLE}.article_txt ;;
+  }
+
+  dimension: mtb_ah_level0 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level0 ;;
+  }
+
+  dimension: mtb_ah_level0_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level0_txt ;;
+  }
+
+  dimension: mtb_ah_level0_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level0_rank ;;
+  }
+
+  dimension: mtb_ah_level1 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level1 ;;
+  }
+
+  dimension: mtb_ah_level1_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level1_txt ;;
+  }
+
+  dimension: mtb_ah_level1_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level1_rank ;;
+  }
+
+  dimension: mtb_ah_level2 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level2 ;;
+  }
+
+  dimension: mtb_ah_level2_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level2_txt ;;
+  }
+
+  dimension: mtb_ah_level2_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level2_rank ;;
+  }
+
+  dimension: mtb_ah_level3 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level3 ;;
+  }
+
+  dimension: mtb_ah_level3_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level3_txt ;;
+  }
+
+  dimension: mtb_ah_level3_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level3_rank ;;
+  }
+
+  dimension: mtb_ah_level4 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level4 ;;
+  }
+
+  dimension: mtb_ah_level4_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level4_txt ;;
+  }
+
+  dimension: mtb_ah_level4_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level4_rank ;;
+  }
+
+  dimension: mtb_ah_level5 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level5 ;;
+  }
+
+  dimension: mtb_ah_level5_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level5_txt ;;
+  }
+
+  dimension: mtb_ah_level5_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level5_rank ;;
+  }
+
+  dimension: mtb_ah_level6 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level6 ;;
+  }
+
+  dimension: mtb_ah_level6_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level6_txt ;;
+  }
+
+  dimension: mtb_ah_level6_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level6_rank ;;
+  }
+
+  dimension: mtb_ah_level7 {
+    type: string
+    sql: ${TABLE}.mtb_ah_level7 ;;
+  }
+
+  dimension: mtb_ah_level7_txt {
+    type: string
+    sql: ${TABLE}.mtb_ah_level7_txt ;;
+  }
+
+  dimension: mtb_ah_level7_rank {
+    type: number
+    sql: ${TABLE}.mtb_ah_level7_rank ;;
+  }
+
+  dimension: mtb_merch_launch_date_revised {
+    type: time
+    sql: ${TABLE}.mtb_merch_launch_date_revised ;;
+  }
+
+  dimension: mtb_merch_category_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_category_level1 ;;
+  }
+
+  dimension: mtb_merch_category_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_category_level2 ;;
+  }
+
+  dimension: mtb_merch_collection_line_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_collection_line_level1 ;;
+  }
+
+  dimension: mtb_merch_collection_line_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_collection_line_level2 ;;
+  }
+
+  dimension: mtb_merch_function_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_function_level1 ;;
+  }
+
+  dimension: mtb_merch_function_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_function_level2 ;;
+  }
+
+  dimension: mtb_merch_function_level3 {
+    type: string
+    sql: ${TABLE}.mtb_merch_function_level3 ;;
+  }
+
+  dimension: mtb_merch_archetype {
+    type: string
+    sql: ${TABLE}.mtb_merch_archetype ;;
+  }
+
+  dimension: mtb_merch_material_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_material_level1 ;;
+  }
+
+  dimension: mtb_merch_material_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_material_level2 ;;
+  }
+
+  dimension: mtb_merch_material_level3 {
+    type: string
+    sql: ${TABLE}.mtb_merch_material_level3 ;;
+  }
+
+  dimension: mtb_merch_price_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_price_level1 ;;
+  }
+
+  dimension: mtb_merch_price_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_price_level2 ;;
+  }
+
+  dimension: mtb_merch_color_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_color_level1 ;;
+  }
+
+  dimension: mtb_merch_color_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_color_level2 ;;
+  }
+
+  dimension: mtb_merch_color_level3 {
+    type: string
+    sql: ${TABLE}.mtb_merch_color_level3 ;;
+  }
+
+  dimension: mtb_merch_product_cluster {
+    type: string
+    sql: ${TABLE}.mtb_merch_product_cluster ;;
+  }
+
+  dimension: mtb_merch_season_level1 {
+    type: string
+    sql: ${TABLE}.mtb_merch_season_level1 ;;
+  }
+
+  dimension: mtb_merch_season_level2 {
+    type: string
+    sql: ${TABLE}.mtb_merch_season_level2 ;;
+  }
+
+  dimension: mtb_merch_launch_financial_year {
+    type: string
+    sql: ${TABLE}.mtb_merch_launch_financial_year ;;
+  }
+
+  dimension: mtb_merch_campaign {
+    type: string
+    sql: ${TABLE}.mtb_merch_campaign ;;
+  }
+
+  dimension: mtb_gbu_level6 {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level6 ;;
+  }
+
+  dimension: mtb_gbu_level6_txt {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level6_txt ;;
+  }
+
+  dimension: mtb_gbu_level6_rank {
+    type: number
+    sql: ${TABLE}.mtb_gbu_level6_rank ;;
+  }
+
+  dimension: mtb_gbu_level5 {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level5 ;;
+  }
+
+  dimension: mtb_gbu_level5_txt {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level5_txt ;;
+  }
+
+  dimension: mtb_gbu_level5_rank {
+    type: number
+    sql: ${TABLE}.mtb_gbu_level5_rank ;;
+  }
+
+  dimension: mtb_gbu_level4 {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level4 ;;
+  }
+
+  dimension: mtb_gbu_level4_txt {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level4_txt ;;
+  }
+
+  dimension: mtb_gbu_level4_rank {
+    type: number
+    sql: ${TABLE}.mtb_gbu_level4_rank ;;
+  }
+
+  dimension: mtb_gbu_level3 {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level3 ;;
+  }
+
+  dimension: mtb_gbu_level3_txt {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level3_txt ;;
+  }
+
+  dimension: mtb_gbu_level3_rank {
+    type: number
+    sql: ${TABLE}.mtb_gbu_level3_rank ;;
+  }
+
+  dimension: mtb_gbu_level2 {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level2 ;;
+  }
+
+  dimension: mtb_gbu_level2_txt {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level2_txt ;;
+  }
+
+  dimension: mtb_gbu_level2_rank {
+    type: number
+    sql: ${TABLE}.mtb_gbu_level2_rank ;;
+  }
+
+  dimension: mtb_gbu_level1 {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level1 ;;
+  }
+
+  dimension: mtb_gbu_level1_txt {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level1_txt ;;
+  }
+
+  dimension: mtb_gbu_level1_rank {
+    type: number
+    sql: ${TABLE}.mtb_gbu_level1_rank ;;
+  }
+
+  dimension: mtb_gbu_level6_hex {
+    type: string
+    sql: ${TABLE}.mtb_gbu_level6_hex ;;
+  }
+
+  dimension: boutique_txt {
+    type: string
+    sql: ${TABLE}.boutique_txt ;;
+  }
+
+  dimension: mtb_boutique_type {
+    type: string
+    sql: ${TABLE}.mtb_boutique_type ;;
+  }
+
+  dimension: mtb_boutique_outlet_flag {
+    type: yesno
+    sql: ${TABLE}.mtb_boutique_outlet_flag ;;
+  }
+
+  dimension: mtb_boutique_finance_status {
+    type: string
+    sql: ${TABLE}.mtb_boutique_finance_status ;;
+  }
+
+  dimension: mtb_boutique_country {
+    type: string
+    sql: ${TABLE}.mtb_boutique_country ;;
+  }
+
+  dimension: mtb_boutique_commercial_status {
+    type: string
+    sql: ${TABLE}.mtb_boutique_commercial_status ;;
+  }
+
+  dimension: mtb_boutique_city {
+    type: string
+    sql: ${TABLE}.mtb_boutique_city ;;
+  }
+
+  dimension: mtb_boutique_landlord_name {
+    type: string
+    sql: ${TABLE}.mtb_boutique_landlord_name ;;
+  }
+
+  dimension: mtb_boutique_first_opening_date {
+    type: time
+    sql: ${TABLE}.mtb_boutique_first_opening_date ;;
+  }
+
+  dimension: mtb_boutique_last_renovation_date {
+    type: time
+    sql: ${TABLE}.mtb_boutique_last_renovation_date ;;
+  }
+
+  dimension: mtb_boutique_reopening_date {
+    type: time
+    sql: ${TABLE}.mtb_boutique_reopening_date ;;
+  }
+
+  dimension: mtb_boutique_closing_date {
+    type: time
+    sql: ${TABLE}.mtb_boutique_closing_date ;;
+  }
+
+  dimension: mtb_boutique_concept {
+    type: string
+    sql: ${TABLE}.mtb_boutique_concept ;;
+  }
+
+  dimension: mtb_boutique_pos_type {
+    type: string
+    sql: ${TABLE}.mtb_boutique_pos_type ;;
+  }
+
+  dimension: mtb_boutique_condition_notes {
+    type: string
+    sql: ${TABLE}.mtb_boutique_condition_notes ;;
+  }
+
+  dimension: mtb_boutique_location_type {
+    type: string
+    sql: ${TABLE}.mtb_boutique_location_type ;;
+  }
+
+  dimension: mtb_boutique_floor {
+    type: string
+    sql: ${TABLE}.mtb_boutique_floor ;;
+  }
+
+  dimension: mtb_boutique_area_total_sqm {
+    type: number
+    sql: ${TABLE}.mtb_boutique_area_total_sqm ;;
+  }
+
+  dimension: mtb_boutique_area_commercial_sqm {
+    type: number
+    sql: ${TABLE}.mtb_boutique_area_commercial_sqm ;;
+  }
+
+  dimension: mtb_boutique_area_backoffice_sqm {
+    type: number
+    sql: ${TABLE}.mtb_boutique_area_backoffice_sqm ;;
+  }
+
+  dimension: mtb_boutique_lease_terms {
+    type: string
+    sql: ${TABLE}.mtb_boutique_lease_terms ;;
+  }
+
+  dimension: mtb_boutique_lease_expiry_date {
+    type: time
+    sql: ${TABLE}.mtb_boutique_lease_expiry_date ;;
+  }
+
+  dimension: mtb_boutique_fixed_rent_euro {
+    type: number
+    sql: ${TABLE}.mtb_boutique_fixed_rent_euro ;;
+  }
+
+  dimension: mtb_boutique_break_point_of_sales_euro {
+    type: number
+    sql: ${TABLE}.mtb_boutique_break_point_of_sales_euro ;;
+  }
+
+  dimension: mtb_boutique_effective_variable_rent {
+    type: number
+    sql: ${TABLE}.mtb_boutique_effective_variable_rent ;;
+  }
+
+  dimension: mtb_boutique_neighbour_front {
+    type: string
+    sql: ${TABLE}.mtb_boutique_neighbour_front ;;
+  }
+
+  dimension: mtb_boutique_neighbour_right {
+    type: string
+    sql: ${TABLE}.mtb_boutique_neighbour_right ;;
+  }
+
+  dimension: mtb_boutique_neighbour_left {
+    type: string
+    sql: ${TABLE}.mtb_boutique_neighbour_left ;;
+  }
+
+  dimension: mtb_boutique_has_traffic_counter_flag {
+    type: number
+    sql: ${TABLE}.mtb_boutique_has_traffic_counter_flag ;;
+  }
+
+  dimension: mtb_boutique_nbv_last_fiscal_year_euro {
+    type: number
+    sql: ${TABLE}.mtb_boutique_nbv_last_fiscal_year_euro ;;
+  }
+
+  dimension: mtb_boutique_fte {
+    type: number
+    sql: ${TABLE}.mtb_boutique_fte ;;
+  }
+
+  dimension: rsp_price_de_eur {
+    type: number
+    sql: ${TABLE}.rsp_price_de_eur ;;
+  }
+
+  dimension: dms_front_picture_url {
+    type: string
+    sql: ${TABLE}.dms_front_picture_url ;;
+  }
+
+  dimension: mtb_ah_leveln_key {
+    type: string
+    sql: ${TABLE}.mtb_ah_leveln_key ;;
+  }
+
+  dimension: mtb_ah_n {
+    type: number
+    sql: ${TABLE}.mtb_ah_n ;;
+  }
+
+  dimension: mtb_goal_sellin_invoiced {
+    type: number
+    sql: ${TABLE}.mtb_goal_sellin_invoiced ;;
+  }
+
+  ### }
+

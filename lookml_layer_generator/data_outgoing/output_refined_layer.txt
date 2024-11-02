@@ -1,0 +1,448 @@
+  # -------------------------------
+  # Default Dimensions
+  # -------------------------------{
+  dimension: boutique_ear {
+    group_label: "Customer - Boutique"
+    label: "Boutique Ear"
+    description: "-"
+  }
+
+  dimension: calendar_day {
+    group_label: "Time - Calendar"
+    label: "Calendar Day"
+    description: "-"
+  }
+
+  dimension: calendar_day_week {
+    group_label: "Time - Calendar"
+    label: "Calendar Day Week"
+    description: "-"
+  }
+
+  dimension: calendar_month {
+    group_label: "Time - Calendar"
+    label: "Calendar Month"
+    description: "-"
+  }
+
+  dimension: calendar_year {
+    group_label: "Time - Calendar"
+    label: "Calendar Year"
+    description: "-"
+  }
+
+  dimension: calendar_year_month {
+    group_label: "Time - Calendar"
+    label: "Calendar Year Month"
+    description: "-"
+  }
+
+  dimension: calendar_year_week {
+    group_label: "Time - Calendar"
+    label: "Calendar Year Week"
+    description: "-"
+  }
+
+  dimension: fiscal_period {
+    group_label: "Time - Fiscal"
+    label: "Fiscal Period"
+    description: "-"
+  }
+
+  dimension: fiscal_year {
+    group_label: "Time - Fiscal"
+    label: "Fiscal Year"
+    description: "-"
+  }
+
+  dimension: posting_period {
+    group_label: "Time - Fiscal"
+    label: "Posting Period"
+    description: "-"
+  }
+
+  dimension: commercial_group {
+    group_label: "Customer - GBU"
+    label: "Commercial Group"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level6 {
+    group_label: "Customer - GBU"
+    label: "GBU Level6"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level6_txt {
+    group_label: "Customer - GBU"
+    label: "GBU Level6 Txt"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level6_rank {
+    group_label: "Customer - GBU"
+    label: "GBU Level6 Rank"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level5 {
+    group_label: "Customer - GBU"
+    label: "GBU Level5"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level5_txt {
+    group_label: "Customer - GBU"
+    label: "GBU Level5 Txt"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level5_rank {
+    group_label: "Customer - GBU"
+    label: "GBU Level5 Rank"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level4 {
+    group_label: "Customer - GBU"
+    label: "GBU Level4"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level4_txt {
+    group_label: "Customer - GBU"
+    label: "GBU Level4 Txt"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level4_rank {
+    group_label: "Customer - GBU"
+    label: "GBU Level4 Rank"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level3 {
+    group_label: "Customer - GBU"
+    label: "GBU Level3"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level3_txt {
+    group_label: "Customer - GBU"
+    label: "GBU Level3 Txt"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level3_rank {
+    group_label: "Customer - GBU"
+    label: "GBU Level3 Rank"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level2 {
+    group_label: "Customer - GBU"
+    label: "GBU Level2"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level2_txt {
+    group_label: "Customer - GBU"
+    label: "GBU Level2 Txt"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level2_rank {
+    group_label: "Customer - GBU"
+    label: "GBU Level2 Rank"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level1 {
+    group_label: "Customer - GBU"
+    label: "GBU Level1"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level1_txt {
+    group_label: "Customer - GBU"
+    label: "GBU Level1 Txt"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level1_rank {
+    group_label: "Customer - GBU"
+    label: "GBU Level1 Rank"
+    description: "-"
+  }
+
+  dimension: mtb_gbu_level6_hex {
+    group_label: "Customer - GBU"
+    label: "GBU Level6 Hex"
+    description: "-"
+  }
+
+  dimension: boutique_txt {
+    group_label: "Customer - Boutique"
+    label: "Boutique Txt"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_type {
+    group_label: "Customer - Boutique"
+    label: "Boutique Type"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_outlet_flag {
+    group_label: "Customer - Boutique"
+    label: "Boutique Outlet Flag"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_finance_status {
+    group_label: "Customer - Boutique"
+    label: "Boutique Finance Status"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_country {
+    group_label: "Customer - Boutique"
+    label: "Boutique Country"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_commercial_status {
+    group_label: "Customer - Boutique"
+    label: "Boutique Commercial Status"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_city {
+    group_label: "Customer - Boutique"
+    label: "Boutique City"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_landlord_name {
+    group_label: "Customer - Boutique"
+    label: "Boutique Landlord Name"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_first_opening_date {
+    group_label: "Customer - Boutique"
+    label: "Boutique First Opening Date"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_last_renovation_date {
+    group_label: "Customer - Boutique"
+    label: "Boutique Last Renovation Date"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_reopening_date {
+    group_label: "Customer - Boutique"
+    label: "Boutique Reopening Date"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_closing_date {
+    group_label: "Customer - Boutique"
+    label: "Boutique Closing Date"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_concept {
+    group_label: "Customer - Boutique"
+    label: "Boutique Concept"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_pos_type {
+    group_label: "Customer - Boutique"
+    label: "Boutique Pos Type"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_condition_notes {
+    group_label: "Customer - Boutique"
+    label: "Boutique Condition Notes"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_location_type {
+    group_label: "Customer - Boutique"
+    label: "Boutique Location Type"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_floor {
+    group_label: "Customer - Boutique"
+    label: "Boutique Floor"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_area_total_sqm {
+    group_label: "Customer - Boutique"
+    label: "Boutique Area Total Sqm"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_area_commercial_sqm {
+    group_label: "Customer - Boutique"
+    label: "Boutique Area Commercial Sqm"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_area_backoffice_sqm {
+    group_label: "Customer - Boutique"
+    label: "Boutique Area Backoffice Sqm"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_lease_terms {
+    group_label: "Customer - Boutique"
+    label: "Boutique Lease Terms"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_lease_expiry_date {
+    group_label: "Customer - Boutique"
+    label: "Boutique Lease Expiry Date"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_fixed_rent_euro {
+    group_label: "Customer - Boutique"
+    label: "Boutique Fixed Rent Euro"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_break_point_of_sales_euro {
+    group_label: "Customer - Boutique"
+    label: "Boutique Break Point Of Sales Euro"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_effective_variable_rent {
+    group_label: "Customer - Boutique"
+    label: "Boutique Effective Variable Rent"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_neighbour_front {
+    group_label: "Customer - Boutique"
+    label: "Boutique Neighbour Front"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_neighbour_right {
+    group_label: "Customer - Boutique"
+    label: "Boutique Neighbour Right"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_neighbour_left {
+    group_label: "Customer - Boutique"
+    label: "Boutique Neighbour Left"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_has_traffic_counter_flag {
+    group_label: "Customer - Boutique"
+    label: "Boutique Has Traffic Counter Flag"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_nbv_last_fiscal_year_euro {
+    group_label: "Customer - Boutique"
+    label: "Boutique Nbv Last Fiscal Year Euro"
+    description: "-"
+  }
+
+  dimension: mtb_boutique_fte {
+    group_label: "Customer - Boutique"
+    label: "Boutique Fte"
+    description: "-"
+  }
+
+  ### }
+
+  # -------------------------------
+  # Default Measures
+  # -------------------------------{
+  measure: visits_looking {
+    group_label: "Visits"
+    label: "Visits - Looking"
+    description: "-"
+    type: nan
+    sql: ${visits_looking} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: visits_asking {
+    group_label: "Visits"
+    label: "Visits - Asking"
+    description: "-"
+    type: nan
+    sql: ${visits_asking} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: visits_sales {
+    group_label: "Visits"
+    label: "Visits - Sales"
+    description: "-"
+    type: nan
+    sql: ${visits_sales} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: visits_cs {
+    group_label: "Visits"
+    label: "Visits - CS"
+    description: "-"
+    type: nan
+    sql: ${visits_cs} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: visits_total {
+    group_label: "Visits"
+    label: "Visits - Total"
+    description: "-"
+    type: nan
+    sql: ${visits_total} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: sellin_invoiced_eur_aar {
+    group_label: "Sellin"
+    label: "Sellin Invoiced - Eur AAR"
+    description: "-"
+    type: nan
+    sql: ${sellin_invoiced_eur_aar} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: sellin_invoiced_eur_bu {
+    group_label: "Sellin"
+    label: "Sellin Invoiced - Eur BU"
+    description: "-"
+    type: nan
+    sql: ${sellin_invoiced_eur_bu} ;;
+    value_format_name: value_human_read
+  }
+
+  measure: count_co_document_number {
+    group_label: "Sellin"
+    label: "Count Transactions"
+    description: "-"
+    type: nan
+    sql: ${count_co_document_number} ;;
+    value_format_name: value_human_read
+  }
+
+  ### }
+
