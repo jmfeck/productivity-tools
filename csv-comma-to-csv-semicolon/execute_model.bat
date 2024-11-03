@@ -1,3 +1,2 @@
-call activate sandbox
-python scripts/convert_csv_to_excel.py
+python scripts/convert_csv_sep.py
 pause

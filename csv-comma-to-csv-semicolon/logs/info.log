@@ -1,0 +1,16 @@
+INFO:root:input_csv_file0: starting
+INFO:root:input_csv_file0: reading csv to be converted
+INFO:root:input_csv_file0: exporting to csv with semicolon format
+INFO:root:input_csv_file0: finished
+INFO:root:input_csv_file1: starting
+INFO:root:input_csv_file1: reading csv to be converted
+INFO:root:input_csv_file1: exporting to csv with semicolon format
+INFO:root:input_csv_file1: finished
+INFO:root:input_csv_file2: starting
+INFO:root:input_csv_file2: reading csv to be converted
+INFO:root:input_csv_file2: exporting to csv with semicolon format
+INFO:root:input_csv_file2: finished
+INFO:root:input_csv_file3: starting
+INFO:root:input_csv_file3: reading csv to be converted
+INFO:root:input_csv_file3: exporting to csv with semicolon format
+INFO:root:input_csv_file3: finished
