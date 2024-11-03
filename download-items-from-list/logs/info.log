@@ -1,0 +1,58 @@
+INFO:root:Starting downloads...
+INFO:root:file_example_JPG_100kB.jpg: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /storage/fe708a67866723bda94c48b/2017/10/file_example_JPG_100kB.jpg HTTP/1.1" 200 102117
+INFO:root:file_example_JPG_100kB.jpg: Download sucessful
+INFO:root:file_example_AVI_480_750kB.avi: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2018/04/file_example_AVI_480_750kB.avi HTTP/1.1" 200 709
+INFO:root:file_example_AVI_480_750kB.avi: Download sucessful
+INFO:root:file_example_MP3_700KB.mp3: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /storage/fe708a67866723bda94c48b/2017/11/file_example_MP3_700KB.mp3 HTTP/1.1" 200 733645
+INFO:root:file_example_MP3_700KB.mp3: Download sucessful
+INFO:root:file-sample_100kB.doc: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2017/02/file-sample_100kB.doc HTTP/1.1" 200 709
+INFO:root:file-sample_100kB.doc: Download sucessful
+INFO:root:file-sample_150kB.pdf: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /storage/fe708a67866723bda94c48b/2017/10/file-sample_150kB.pdf HTTP/1.1" 200 142786
+INFO:root:file-sample_150kB.pdf: Download sucessful
+INFO:root:file_example_CSV_5000.csv: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2017/02/file_example_CSV_5000.csv HTTP/1.1" 200 709
+INFO:root:file_example_CSV_5000.csv: Download sucessful
+INFO:root:zip_2MB.zip: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2017/02/zip_2MB.zip HTTP/1.1" 200 709
+INFO:root:zip_2MB.zip: Download sucessful
+INFO:root:Starting downloads...
+INFO:root:file_example_JPG_100kB.jpg: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /storage/fe708a67866723bda94c48b/2017/10/file_example_JPG_100kB.jpg HTTP/11" 200 102117
+INFO:root:file_example_JPG_100kB.jpg: Download sucessful
+INFO:root:file_example_AVI_480_750kB.avi: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2018/04/file_example_AVI_480_750kB.avi HTTP/11" 200 709
+INFO:root:file_example_AVI_480_750kB.avi: Download sucessful
+INFO:root:file_example_MP3_700KB.mp3: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /storage/fe708a67866723bda94c48b/2017/11/file_example_MP3_700KB.mp3 HTTP/11" 200 733645
+INFO:root:file_example_MP3_700KB.mp3: Download sucessful
+INFO:root:file-sample_100kB.doc: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2017/02/file-sample_100kB.doc HTTP/11" 200 709
+INFO:root:file-sample_100kB.doc: Download sucessful
+INFO:root:file-sample_150kB.pdf: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /storage/fe708a67866723bda94c48b/2017/10/file-sample_150kB.pdf HTTP/11" 200 142786
+INFO:root:file-sample_150kB.pdf: Download sucessful
+INFO:root:file_example_CSV_5000.csv: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2017/02/file_example_CSV_5000.csv HTTP/11" 200 709
+INFO:root:file_example_CSV_5000.csv: Download sucessful
+INFO:root:zip_2MB.zip: Starting download
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): file-examples.com:443
+DEBUG:urllib3.connectionpool:https://file-examples.com:443 "GET /wp-content/storage/2017/02/zip_2MB.zip HTTP/11" 200 709
+INFO:root:zip_2MB.zip: Download sucessful

@@ -1,0 +1,2 @@
+python scripts/download_items_from_list.py
+PAUSE
